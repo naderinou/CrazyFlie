@@ -1,0 +1,150 @@
+Scanning interfaces for Crazyflies...
+Crazyflies found:
+usb://0
+Connecting to usb://0
+Connected to usb://0
+altHold
+	altHoldChangeSens
+	altHoldErrMax
+	aslAlpha
+	aslAlphaLong
+	baseThrust
+	errDeadband
+	kd
+	ki
+	kp
+	maxThrust
+	minThrust
+	pidAlpha
+	pidAslFac
+	vAccDeadband
+	vBiasAlpha
+	vSpeedASLDeadband
+	vSpeedASLFac
+	vSpeedAccFac
+	vSpeedLimit
+cpu
+	flash
+	id0
+	id1
+	id2
+firmware
+	modified
+	revision0
+	revision1
+flightmode
+	althold
+imu_acc_lpf
+	factor
+imu_sensors
+	HMC5883L
+	MS5611
+imu_tests
+	HMC5883L
+	MPU6500
+	MS5611
+pid_attitude
+	pitch_kd
+	pitch_ki
+	pitch_kp
+	roll_kd
+	roll_ki
+	roll_kp
+	yaw_kd
+	yaw_ki
+	yaw_kp
+pid_rate
+	pitch_kd
+	pitch_ki
+	pitch_kp
+	roll_kd
+	roll_ki
+	roll_kp
+	yaw_kd
+	yaw_ki
+	yaw_kp
+ring
+	effect
+	emptyCharge
+	fullCharge
+	glowstep
+	headlightEnable
+	neffect
+	solidBlue
+	solidGreen
+	solidRed
+sensorfusion6
+	ki
+	kp
+system
+	selftestPassed
+
+imu_sensors.HMC5883L: 1
+imu_sensors.MS5611: 1
+imu_tests.MPU6500: 1
+imu_tests.HMC5883L: 1
+imu_tests.MS5611: 1
+imu_acc_lpf.factor: 13
+The connected Crazyflie has 1024kb of flash
+cpu.flash: 1024
+cpu.id0: 2031684
+cpu.id1: 842354962
+cpu.id2: 842085176
+system.selftestPassed: 1
+flightmode.althold: 0
+pid_rate.roll_kp: 70.0
+pid_rate.roll_ki: 0.0
+pid_rate.roll_kd: 0.0
+pid_rate.pitch_kp: 70.0
+pid_rate.pitch_ki: 0.0
+pid_rate.pitch_kd: 0.0
+pid_rate.yaw_kp: 70.0
+pid_rate.yaw_ki: 50.0
+pid_rate.yaw_kd: 0.0
+pid_attitude.roll_kp: 3.5
+pid_attitude.roll_ki: 2.0
+pid_attitude.roll_kd: 0.0
+pid_attitude.pitch_kp: 3.5
+pid_attitude.pitch_ki: 2.0
+pid_attitude.pitch_kd: 0.5
+pid_attitude.yaw_kp: 0.0
+pid_attitude.yaw_ki: 0.0
+pid_attitude.yaw_kd: 0.0
+sensorfusion6.kp: 0.800000011920929
+sensorfusion6.ki: 0.0020000000949949026
+altHold.aslAlpha: 0.9200000166893005
+altHold.aslAlphaLong: 0.9300000071525574
+altHold.errDeadband: 0.0
+altHold.altHoldChangeSens: 200.0
+altHold.altHoldErrMax: 1.0
+altHold.kd: 0.0
+altHold.ki: 0.18000000715255737
+altHold.kp: 0.5
+altHold.pidAlpha: 0.800000011920929
+altHold.pidAslFac: 13000.0
+altHold.vAccDeadband: 0.05000000074505806
+altHold.vBiasAlpha: 0.9800000190734863
+altHold.vSpeedAccFac: -48.0
+altHold.vSpeedASLDeadband: 0.004999999888241291
+altHold.vSpeedASLFac: 0.0
+altHold.vSpeedLimit: 0.05000000074505806
+altHold.baseThrust: 43000
+altHold.maxThrust: 60000
+altHold.minThrust: 0
+ring.effect: 9
+ring.neffect: 0
+ring.solidRed: 20
+ring.solidGreen: 20
+ring.solidBlue: 20
+ring.headlightEnable: 0
+ring.glowstep: 0.05000000074505806
+ring.emptyCharge: 3.0999999046325684
+ring.fullCharge: 4.199999809265137
+firmware.revision0: 3414615320
+firmware.revision1: 48637
+firmware.modified: 1
+Have fetched all parameter values.
+
+Write: pid_attitude.pitch_kd=0.79
+Readback: pid_attitude.pitch_kd=0.7900000214576721
+Disconnected from usb://0
