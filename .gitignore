@@ -30,10 +30,13 @@ Temporary Items
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # Nader Test :
-.idea/
+.idea/*
+Data/*
+src/__pycache__
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
+
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
