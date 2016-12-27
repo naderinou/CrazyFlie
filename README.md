@@ -14,12 +14,11 @@ The project had two phases :
   - Merge with the following projects :
          -  Emotiv Epoc+ : Fly the Crazyflie 2 using an Emptiv Epoc+.
          -  Data Glove : Fly the Crazyflie 2 using a Data Glove.
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
+         
 
 ### Phase One
 `done`.
 
 ### Phase Two
 -   DataGlove : `done`.
--   Emotiv Epoc+ : work in progress.
+-   Emotiv Epoc+ : *work in progress*.
