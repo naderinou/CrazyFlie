@@ -15,6 +15,7 @@ The project had two phases :
          -  Emotiv Epoc+ : Fly the Crazyflie 2 using an Emptiv Epoc+.
          -  Data Glove : Fly the Crazyflie 2 using a Data Glove.
          
+         
 
 ### Phase One
 `done`.
