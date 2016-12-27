@@ -1,6 +1,6 @@
 # Nano
 
-Nano is a CrazyFlie 2 BLE-Unix based Python client.
+Nano is a *CrazyFlie 2* BLE-Unix based Python client.
 
 It was developped by Nader GEORGI during his last year in the University of South Brittany during "INF2344 - Synthese d’Images et Animation" course.
 
