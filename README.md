@@ -18,8 +18,8 @@ The project had two phases :
 
 
 ### Phase One
-`done`.
+`completed`.
 
 ### Phase Two
--   DataGlove : `done`.
--   Emotiv Epoc+ : `done`.
+-   DataGlove : `completed`.
+-   Emotiv Epoc+ : `completed`.
