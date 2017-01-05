@@ -14,12 +14,12 @@ The project had two phases :
   - Merge with the following projects :
          -  Emotiv Epoc+ : Fly the Crazyflie 2 using an Emptiv Epoc+.
          -  Data Glove : Fly the Crazyflie 2 using a Data Glove.
-         
-         
+
+
 
 ### Phase One
 `done`.
 
 ### Phase Two
 -   DataGlove : `done`.
--   Emotiv Epoc+ : *work in progress*.
+-   Emotiv Epoc+ : `done`.
