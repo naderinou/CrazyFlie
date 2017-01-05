@@ -33,6 +33,7 @@ Temporary Items
 .idea/*
 Data/*
 Promo/
+*.pyc
 
 src/__pycache__
 # User-specific stuff:
