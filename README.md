@@ -23,4 +23,4 @@ The project had two phases :
 ### Phase Two
 -   DataGlove : `completed`.
 -   Emotiv Epoc+ : `completed`.
-- need to install [python-socketio](https://pypi.python.org/pypi/python-socketio "python-socketio") to communicate with the nodJS server
+-   Need to install [python-socketio](https://pypi.python.org/pypi/python-socketio "python-socketio") to communicate with the nodJS server
